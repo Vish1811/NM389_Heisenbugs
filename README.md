@@ -29,6 +29,11 @@ This project is deployed live at [Demo Link]( https://vish1811.github.io/My-Resu
 
 ## ✍️ Authors <a name = "author"></a>
 
--   [@prastut](https://github.com/prastut/)
--   [@dhruv10](https://github.com/dhruv10)
+-   [@Vish1811](https://github.com/Vish1811)
+-   [@niimmii](https://github.com/niimmii)
+-   [@shre-ya](https://github.com/shre-ya)
+-   [@sonuverma1](https://github.com/sonuverma1)
+-   [@aanchal269](https://github.com/aanchal269)
+-   [@Piyush490](https://github.com/Piyush490)
+
 
