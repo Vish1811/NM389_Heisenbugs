@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <title>SIH2020 Project</title>
+    <meta charset="utf-8">
+    <script src="https://www.webglearth.com/v2/api.js"></script>
+    <script>
+      function initialize() {
+        var earth = new WE.map('earth_div');
+        earth.setView([46.8011, 8.2266], 2);
+        WE.tileLayer('https://webglearth.github.io/webglearth2-offline/{z}/{x}/{y}.jpg', {
+          tileSize: 256,
+          bounds: [[-85, -180], [85, 180]],
+          minZoom: 0,
+          maxZoom: 16,
+          attribution: 'WebGLEarth example',
+          tms: true
+        }).addTo(earth);
+        // Start a simple rotation animation
+        var before = null;
+        requestAnimationFrame(function animate(now) {
+            var c = earth.getPosition();
+            var elapsed = before? now - before: 0;
+            before = now;
+            earth.setCenter([c[0], c[1] + 0.1*(elapsed/30)]);
+            requestAnimationFrame(animate);
+        });
+      }
+    </script>
+   <style type="text/css">
+    html, body{padding: 0; margin: 0;}
+    #earth_div{top: 0; right: 0; bottom: 0; left: 0; position: absolute !important;
+      background-image: url("night-sky.png");}
+    
+      h1 {
+      color: rgb(88, 54, 241);
+      text-align: center;
+      }
+
+      p {
+    font-family: verdana;
+    font-size: 20px;
+      }
+    </style>
+  </head>
+  <body onload="initialize()">
+    <div id="earth_div"><h1>Heisenbugs - IET Lucknow(2020)</h1></div>
+  </body>
+</html>
