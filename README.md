@@ -2,14 +2,14 @@
 > This Repository conatins the project our team made for SIH2020(Software Edition)
 >Problem Statement:[SEE ISRO's Problem Statement(NM389-ISRO)](https://vedas.sac.gov.in/vcms/en/sih2020.html).
 
-### Blueprint(Layout Design)
+## Blueprint(Layout Design)
 See Roughlayout folder
 
 This project is deployed live at [Demo Link]( https://vish1811.github.io/My-Resume/)
 
 
-
-
+## ScreenShots
+![ScreenShot](https://user-images.githubusercontent.com/38127345/87586189-cd343e00-c6fd-11ea-8c90-a9812d79bafd.png)
 ##  Steps to run the project locally in development mode are: <a name = "run_locally"></a>
 
 1. Fork and clone the repository in your system and navigate to the project directory.
