@@ -27,9 +27,9 @@ See Roughlayout folder
 - [ ] Implementing the Little Dashboard on the left(To show the important data). 
 
 ## ScreenShots
-<img height="350" hspace="40"/>
+
 <p float="left">
-<img src="https://user-images.githubusercontent.com/38127345/87586189-cd343e00-c6fd-11ea-8c90-a9812d79bafd.png" width="300"/> <img src="https://user-images.githubusercontent.com/38127345/87586189-cd343e00-c6fd-11ea-8c90-a9812d79bafd.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/38127345/87586189-cd343e00-c6fd-11ea-8c90-a9812d79bafd.png" width="400"/> <img src="https://user-images.githubusercontent.com/38127345/87586189-cd343e00-c6fd-11ea-8c90-a9812d79bafd.png" width="400"/>
 </p>
 
 ##  Steps to run the project locally in development mode are: <a name = "run_locally"></a>
