@@ -10,6 +10,25 @@ This project is deployed live at [Demo Link]( https://vish1811.github.io/My-Resu
 
 ## ScreenShots
 ![ScreenShot](https://user-images.githubusercontent.com/38127345/87586189-cd343e00-c6fd-11ea-8c90-a9812d79bafd.png)
+
+
+## Task List
+- [ ] Work out complete structure of project.(Design Phase)
+- [ ] Enlist all libraries needed, have a basic idea of thier working(Learn Basics).
+- [ ] Setting Up the Environment of the project(In the Systems) 
+- [ ] Write basic webgl model to program to execute this.(Basic Rough Design Implementation)
+- [ ] For 3d/4d visulization create a WebGL Globe.
+- [ ] Data analysis(Analyse the data to be visualised on the Globe).
+- [ ] Data Analysis(temperature data) + Data Analysis(pressure data).
+- [ ] Extracting Important files from the Json file provided as data.
+- [ ] Implement Toggle button(Help us to switch between the data to be represented on the globe).
+- [ ] Implementing a Button to switch B/W Rotation Mode and Normal Mode.
+- [ ] Implementing the TIME SERIES REPRESENTATION.
+- [ ] Adding Animation to TIME LINE.
+- [ ] Implementing the Little Dashboard on the left(To show the important data). 
+
+
+
 ##  Steps to run the project locally in development mode are: <a name = "run_locally"></a>
 
 1. Fork and clone the repository in your system and navigate to the project directory.
