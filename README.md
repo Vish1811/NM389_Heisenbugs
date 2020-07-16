@@ -1,11 +1,15 @@
 # Heisenbugs-SIH-2020
 > This Repository conatins the project our team made for SIH2020(Software Edition)
->Problem Statement:[SEE ISRO's Problem Statement(NM389-ISRO)](https://vedas.sac.gov.in/vcms/en/sih2020.html).
+## Problem Statement
+> Problem Statement  :  [SEE ISRO's Problem Statement(NM389-ISRO)](https://vedas.sac.gov.in/vcms/en/sih2020.html).
+
+![Screenshot (270)](https://user-images.githubusercontent.com/38127345/87622001-c4fcf280-c73f-11ea-8804-abe650260804.png)
 
 ## Blueprint(Layout Design)
 See Roughlayout folder
 
-This project is deployed live at [Demo Link]( https://vish1811.github.io/My-Resume/)
+## DEMO
+> This project is deployed live at [Demo Link]( https://vish1811.github.io/My-Resume/)
 
 
 ## ScreenShots
