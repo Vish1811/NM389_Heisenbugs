@@ -11,11 +11,6 @@ See Roughlayout folder
 ## DEMO
 > This project is deployed live at [Demo Link]( https://vish1811.github.io/My-Resume/)
 
-
-## ScreenShots
-![ScreenShot](https://user-images.githubusercontent.com/38127345/87586189-cd343e00-c6fd-11ea-8c90-a9812d79bafd.png)
-
-
 ## Task List
 - [X] Work out complete structure of project.(Design Phase)
 - [X] Enlist all libraries needed, have a basic idea of thier working(Learn Basics).
@@ -31,7 +26,11 @@ See Roughlayout folder
 - [ ] Adding Animation to TIME LINE.
 - [ ] Implementing the Little Dashboard on the left(To show the important data). 
 
-
+## ScreenShots
+<img height="350" hspace="40"/>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/38127345/87586189-cd343e00-c6fd-11ea-8c90-a9812d79bafd.png" width="300"/> <img src="https://user-images.githubusercontent.com/38127345/87586189-cd343e00-c6fd-11ea-8c90-a9812d79bafd.png" width="300"/>
+</p>
 
 ##  Steps to run the project locally in development mode are: <a name = "run_locally"></a>
 
