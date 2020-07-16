@@ -41,13 +41,8 @@ See Roughlayout folder
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
--   [React JS](https://reactjs.org/) - A JavaScript library for building user interfaces
--   [Deck GL](https://deck.gl/) - Large scale WebGL-powered data visualization
--   [Mapbox GL JS](https://www.mapbox.com/) - A JavaScript library that uses WebGL to render interactive maps
--   [FOAM APIs](https://f-o-a-m.github.io/foam.developer/index.html) - Official APIs built on [FOAM's map](https://foam.space/)
--   [Blocklytics FOAM API](https://docs.blocklytics.org/apis/foam-map-api) - APIs built for [FOAM tools](https://foam.tools/)
--   [React Globe GL](https://vasturiano.github.io/react-globe.gl/) - Globe Data Visualization using ThreeJS/WebGL
--   [Surge](https://surge.sh/) - CLI for web publishing
+-   [Web GL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) - A JavaScript API for rendering high-performance interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins.
+-  [Three.js](https://threejs.org/) - Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser
 
 ## ✍️ Authors <a name = "author"></a>
 
