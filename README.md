@@ -13,9 +13,9 @@ This project is deployed live at [Demo Link]( https://vish1811.github.io/My-Resu
 
 
 ## Task List
-- [ ] Work out complete structure of project.(Design Phase)
-- [ ] Enlist all libraries needed, have a basic idea of thier working(Learn Basics).
-- [ ] Setting Up the Environment of the project(In the Systems) 
+- [X] Work out complete structure of project.(Design Phase)
+- [X] Enlist all libraries needed, have a basic idea of thier working(Learn Basics).
+- [X] Setting Up the Environment of the project(In the Systems) 
 - [ ] Write basic webgl model to program to execute this.(Basic Rough Design Implementation)
 - [ ] For 3d/4d visulization create a WebGL Globe.
 - [ ] Data analysis(Analyse the data to be visualised on the Globe).
