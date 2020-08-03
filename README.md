@@ -26,11 +26,16 @@ See Roughlayout folder
 - [ ] Adding Animation to TIME LINE.
 - [ ] Implementing the Little Dashboard on the left(To show the important data). 
 
-## ScreenShots
+## ScreenShots for InitialGlobe
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/38127345/87586189-cd343e00-c6fd-11ea-8c90-a9812d79bafd.png" width="400"/> <img src="https://user-images.githubusercontent.com/38127345/87586189-cd343e00-c6fd-11ea-8c90-a9812d79bafd.png" width="400"/>
 </p>
+
+## ScreenShots for Final 3d Globe with data
+
+![GlobeSS1](https://user-images.githubusercontent.com/38127345/89171687-1f4edd80-d59f-11ea-96d0-2dfecc0d9315.png)
+![GlobeSS2](https://user-images.githubusercontent.com/38127345/89171787-40afc980-d59f-11ea-9eb5-61d1763fe623.png)
 
 ##  Steps to run the project locally in development mode are: <a name = "run_locally"></a>
 
