@@ -5,9 +5,6 @@
 
 ![Screenshot (270)](https://user-images.githubusercontent.com/38127345/87622001-c4fcf280-c73f-11ea-8804-abe650260804.png)
 
-## Blueprint(Layout Design)
-See Roughlayout folder
-
 ## Map Visualisation (2D)
 ![temperature_timelapse](https://user-images.githubusercontent.com/38127345/89174243-27108100-d5a3-11ea-9b0d-44a07104bbe2.gif)
 ## Globe Visualisation (3D)
@@ -27,6 +24,9 @@ See Roughlayout folder
 - [X] Implementing the TIME SERIES REPRESENTATION.
 - [ ] Adding Animation to TIME LINE.
 - [ ] Implementing the Little Dashboard on the left(To show the important data). 
+
+## Blueprint(Layout Design)
+![RoughLayout](https://user-images.githubusercontent.com/38127345/89174719-f1b86300-d5a3-11ea-89ff-02ff5c0cbdbc.png)
 
 ## ScreenShots for InitialGlobe
 
