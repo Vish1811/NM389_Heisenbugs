@@ -5,9 +5,6 @@
 
 ![Screenshot (270)](https://user-images.githubusercontent.com/38127345/87622001-c4fcf280-c73f-11ea-8804-abe650260804.png)
 
-## Blueprint(Layout Design)
-See Roughlayout folder
-
 ## Map Visualisation (2D)
 ![temperature_timelapse](https://user-images.githubusercontent.com/38127345/89174243-27108100-d5a3-11ea-9b0d-44a07104bbe2.gif)
 ## Globe Visualisation (3D)
@@ -28,6 +25,7 @@ See Roughlayout folder
 - [ ] Adding Animation to TIME LINE.
 - [ ] Implementing the Little Dashboard on the left(To show the important data). 
 
+
 ## ScreenShots for InitialGlobe
 
 <p float="left">
@@ -38,6 +36,10 @@ See Roughlayout folder
 
 ![GlobeSS1](https://user-images.githubusercontent.com/38127345/89171687-1f4edd80-d59f-11ea-96d0-2dfecc0d9315.png)
 ![GlobeSS2](https://user-images.githubusercontent.com/38127345/89171787-40afc980-d59f-11ea-9eb5-61d1763fe623.png)
+
+## Blueprint(Layout Design)
+![RoughLayout](https://user-images.githubusercontent.com/38127345/89174719-f1b86300-d5a3-11ea-89ff-02ff5c0cbdbc.png)
+
 
 ##  Steps to run the project locally in development mode are: <a name = "run_locally"></a>
 
