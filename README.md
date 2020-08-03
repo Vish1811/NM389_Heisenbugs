@@ -25,8 +25,6 @@
 - [ ] Adding Animation to TIME LINE.
 - [ ] Implementing the Little Dashboard on the left(To show the important data). 
 
-## Blueprint(Layout Design)
-![RoughLayout](https://user-images.githubusercontent.com/38127345/89174719-f1b86300-d5a3-11ea-89ff-02ff5c0cbdbc.png)
 
 ## ScreenShots for InitialGlobe
 
@@ -38,6 +36,10 @@
 
 ![GlobeSS1](https://user-images.githubusercontent.com/38127345/89171687-1f4edd80-d59f-11ea-96d0-2dfecc0d9315.png)
 ![GlobeSS2](https://user-images.githubusercontent.com/38127345/89171787-40afc980-d59f-11ea-9eb5-61d1763fe623.png)
+
+## Blueprint(Layout Design)
+![RoughLayout](https://user-images.githubusercontent.com/38127345/89174719-f1b86300-d5a3-11ea-89ff-02ff5c0cbdbc.png)
+
 
 ##  Steps to run the project locally in development mode are: <a name = "run_locally"></a>
 
