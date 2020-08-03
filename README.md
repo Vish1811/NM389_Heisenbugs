@@ -8,21 +8,23 @@
 ## Blueprint(Layout Design)
 See Roughlayout folder
 
-## DEMO
+## Map Visualisation (2D)
+![temperature_timelapse](https://user-images.githubusercontent.com/38127345/89174243-27108100-d5a3-11ea-9b0d-44a07104bbe2.gif)
+## Globe Visualisation (3D)
 ![finalGIFGlobe](https://user-images.githubusercontent.com/38127345/89173662-422ec100-d5a2-11ea-8fe2-42be0d505f05.gif)
 
 ## Task List
 - [X] Work out complete structure of project.(Design Phase)
 - [X] Enlist all libraries needed, have a basic idea of thier working(Learn Basics).
 - [X] Setting Up the Environment of the project(In the Systems) 
-- [ ] Write basic webgl model to program to execute this.(Basic Rough Design Implementation)
-- [ ] For 3d/4d visulization create a WebGL Globe.
-- [ ] Data analysis(Analyse the data to be visualised on the Globe).
-- [ ] Data Analysis(temperature data) + Data Analysis(pressure data).
-- [ ] Extracting Important files from the Json file provided as data.
-- [ ] Implement Toggle button(Help us to switch between the data to be represented on the globe).
+- [x] Write basic webgl model to program to execute this.(Basic Rough Design Implementation)
+- [X] For 3d/4d visulization create a WebGL Globe.
+- [X] Data analysis(Analyse the data to be visualised on the Globe).
+- [X] Data Analysis(temperature data) + Data Analysis(pressure data).
+- [X] Extracting Important files from the Json file provided as data.
+- [X] Implement Toggle button(Help us to switch between the data to be represented on the globe).
 - [ ] Implementing a Button to switch B/W Rotation Mode and Normal Mode.
-- [ ] Implementing the TIME SERIES REPRESENTATION.
+- [X] Implementing the TIME SERIES REPRESENTATION.
 - [ ] Adding Animation to TIME LINE.
 - [ ] Implementing the Little Dashboard on the left(To show the important data). 
 
