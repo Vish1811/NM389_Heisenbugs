@@ -9,7 +9,7 @@
 See Roughlayout folder
 
 ## DEMO
-> This project is deployed live at [Demo Link]( https://vish1811.github.io/My-Resume/)
+![finalGIFGlobe](https://user-images.githubusercontent.com/38127345/89173662-422ec100-d5a2-11ea-8fe2-42be0d505f05.gif)
 
 ## Task List
 - [X] Work out complete structure of project.(Design Phase)
